@@ -1,0 +1,14 @@
+1=   https://jsonplaceholder.typicode.com/posts/1 
+
+2=   https://jsonplaceholder.typicode.com/posts
+
+3=   https://jsonplaceholder.typicode.com/this_endpoint_does_not_exist
+
+5=   https://jsonplaceholder.typicode.com/users
+
+7=   https://jsonplaceholder.typicode.com/posts/1",
+     https://jsonplaceholder.typicode.com/posts/2",
+     https://jsonplaceholder.typicode.com/posts/3
+
+
+en son uygulama=   https://api.open-meteo.com/v1/forecast?latitude=41.01&longitude=28.97&current_weather=true   
