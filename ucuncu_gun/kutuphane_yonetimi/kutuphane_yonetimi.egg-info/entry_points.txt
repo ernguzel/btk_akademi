@@ -1,0 +1,2 @@
+[console_scripts]
+kutuphane-uygulamasi = kutuphane_yonetimi.main:run
